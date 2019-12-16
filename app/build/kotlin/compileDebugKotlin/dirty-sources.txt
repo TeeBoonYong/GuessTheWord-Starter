@@ -1,0 +1,6 @@
+C:\Users\elvin\Desktop\GuessTheWord-master\GuessTheWord-Starter\app\src\main\java\com\example\android\guesstheword\MainActivity.kt
+C:\Users\elvin\Desktop\GuessTheWord-master\GuessTheWord-Starter\app\src\main\java\com\example\android\guesstheword\screens\game\GameFragment.kt
+C:\Users\elvin\Desktop\GuessTheWord-master\GuessTheWord-Starter\app\src\main\java\com\example\android\guesstheword\screens\score\ScoreFragment.kt
+C:\Users\elvin\Desktop\GuessTheWord-master\GuessTheWord-Starter\app\src\main\java\com\example\android\guesstheword\screens\score\ScoreViewModel.kt
+C:\Users\elvin\Desktop\GuessTheWord-master\GuessTheWord-Starter\app\src\main\java\com\example\android\guesstheword\screens\score\ScoreViewModelFactory.kt
+C:\Users\elvin\Desktop\GuessTheWord-master\GuessTheWord-Starter\app\src\main\java\com\example\android\guesstheword\screens\title\TitleFragment.kt
